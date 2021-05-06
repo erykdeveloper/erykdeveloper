@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+👋 My name is Eryk Fontes and I'm from Brazil (🇧🇷). work as a front-end developer
+
+👨‍🎓 - I study software engineering
+
+⚙️- Javascript, React.js, Next.js, PHP
+
+💻 - IOS & Android
+
+Shall we work together?
+
+💬 E-mail erikfontesh7@gmail.com
 <!--
 **Erykff/erykff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
