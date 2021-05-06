@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys 👋
 
 👋 My name is Eryk Fontes and I'm from Brazil (🇧🇷). work as a front-end developer
 
