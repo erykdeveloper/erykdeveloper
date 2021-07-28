@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-👋 My name is Eryk Albanowsky and I'm from Brazil (🇧🇷). work as a front-end developer
+👋 My name is Eryk Albanowski and I'm from Brazil (🇧🇷). work as a front-end developer
 
 👨‍🎓 - I study software engineering
 
