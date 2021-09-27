@@ -4,13 +4,13 @@
 
 👨‍🎓 - I study software engineering
 
-⚙️- Javascript, React.js, Next.js, PHP
+⚙️- Javascript, HTML5, CSS3, React.js, Next.js, PHP, SQL Server
 
 💻 - IOS & Android
 
 Shall we work together?
 
-💬 E-mail eryk@federalseguranca.com.br
+💬 E-mail erikfontesh7@gmail.com
 <!--
 **Erykff/erykff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
