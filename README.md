@@ -4,7 +4,7 @@
 
 👨‍🎓 - I study software engineering  
   
-⚙️- Javascript, HTML5, CSS3, React.js, Next.js, PHP, SQL Server, .LUA 
+⚙️- Javascript, HTML5, CSS3, React.js, Next.js, PHP, Symfony, Lavarel, SQL Server, PostegreSQL, Git, .LUA 
   
 💻 - IOS & Android  
   
