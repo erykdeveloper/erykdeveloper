@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-👋 My name is Eryk Albanowski and I'm from Brazil (🇧🇷). work as a desenvolvedor full-stack   
+👋 My name is Eryk Fontes and I'm from Brazil (🇧🇷). work as a desenvolvedor full-stack   
 
 👨‍🎓 - I study software engineering  
   
