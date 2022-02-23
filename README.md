@@ -1,10 +1,10 @@
 ### Hi guys 👋
 
-👋 My name is Eryk Fontes and I'm from Brazil (🇧🇷). work as a desenvolvedor full-stack a mais ou menos 6 anos
+👋 My name is Eryk Fontes and I'm from Brazil (🇧🇷). work as a desenvolvedor full-stack 
 
 👨‍🎓 - I study software engineering  
   
-⚙️- Javascript, HTML5, CSS3, React.js, Next.js, PHP, Symfony, Lavarel, SQL Server, PostegreSQL, Git, .LUA 
+⚙️- Javascript, HTML5, CSS3, React.js, Next.js, PHP, Symfony, Lavarel, Slim, SQL Server, PostegreSQL, Git, .LUA 
   
 💻 - IOS & Android  
   
