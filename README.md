@@ -4,7 +4,7 @@
 
 👨‍🎓 - I study System analysis and development 
   
-⚙️- HTML5, CSS3, JavaScript, React.js React Native, Next.js, NodeJS, PHP, Symfony, Lavarel, Slim, SQL Server, PostegreSQL, GraphQL, Git, .LUA 
+⚙️- HTML5, CSS3, JavaScript, React.js React Native, Next.js, NodeJS, PHP, Symfony, Lavarel, Slim, SQL Server, MongoDB, GraphQL, Git, .LUA 
   
 💻 - IOS & Android  
   
